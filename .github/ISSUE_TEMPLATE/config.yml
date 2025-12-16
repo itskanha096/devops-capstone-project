@@ -1,5 +1,1 @@
-blank_issues_enabled: false
-issue_templates:
-  - name: "User Story"
-    description: "Template for creating user stories"
-    file: "user-story.md"
+blank_issues_enabled: true
